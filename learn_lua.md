@@ -1319,10 +1319,4 @@ Anyways, back to pillars. The 3rd pillar is encapsulation, which is hiding data 
 
 The 4th and last pillar is known as polymorphism, it describes the concept that different classes can be used with the same interface [source](https://stackify.com/oop-concept-polymorphism/). The image below shows an accurate representation of how polymorphism would work with animal classes.
 ![](https://i2.wp.com/www.brightdevelopers.com/wp-content/uploads/2017/08/polymorphism-big.png?ssl=1)
-
-Before I move onto how OOP would work practically, I want to present an old [signal class](https://pastebin.com/P4C3X7KV) module of mine I made back in november of 2020 meant to imitate RBXScriptSignals' functionality to give an example of how OOP looks like in Lua.
-
-
-### 7.5.5 Practical OOP
-
-Waiting to be documented
+-- f
