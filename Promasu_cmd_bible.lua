@@ -98,9 +98,4 @@ local bible_notgay = {
     "Matt 5:16: In the same way, let your light shine before men, that they may see your good deeds and praise your Father in heaven.",
     "Isa 55:8: For my thoughts are not your thoughts, neither are your ways my ways,” declares the LORD.",
     "Heb 4:15: For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who has been tempted in every way, just as we are-yet was without sin.",
-    "John 13:35: By this all men will know that you are my disciples, if you love one another.",
-}
-local print_tablebible_roby = bible_notgay[math.random(1,#bible_notgay)]
-spawn(function(...)
-messagebox(print_tablebible_roby, "Bible: {Promasu} ", 0)
-end)
+    "John 13:35: By this all men will know that yo
